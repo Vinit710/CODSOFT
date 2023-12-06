@@ -1,6 +1,11 @@
 # CODSOFT
 This is the repo that contains all my tasks that i had  done during my 1 month internship in CODSOFT in the field of data science.
 
+IDE : Jupyter Notebook
+Language : Python
+Datasets : kaggle
+
+
 TASK 1:
 TITANIC SURVIVAL PREDICTION
 
